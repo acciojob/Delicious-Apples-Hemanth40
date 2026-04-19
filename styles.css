@@ -176,9 +176,7 @@ body {
 }
 
 /* Description / Benefits */
-.description::before {
-  content: "BENEFITS";
-  display: block;
+.description h3 {
   font-size: 10px;
   letter-spacing: 1.5px;
   color: #999;
